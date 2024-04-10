@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-* 🌍  I'm based in Bangalore, India
+* 🌍  I'm a student in RV College of Engineering, based in Bangalore, India
 * ✉️  You can contact me at [trisha.bhatta2023@gmail.com](mailto:trisha.bhatta2023@gmail.com)
 * 🧠  I'm currently doing a undemy course on Aiml and Datascience
 * ⚡  I've successfully turned a 'Hello World' program into an infinite loop. #winning?
