@@ -6,7 +6,8 @@ Student
 
 * 🌍  I'm a student in RV College of Engineering, based in Bangalore, India
 * ✉️  You can contact me at [trisha.bhatta2023@gmail.com](mailto:trisha.bhatta2023@gmail.com)
-* 🧠  I'm currently doing a undemy course on Aiml and Datascience
+* 🧠 Currently building a Facial Recognition Attendance System to catch classmates who skip class
+* 🧠 Doing an AIML and DataScience Course on Udemy at the moment
 * ⚡  I've successfully turned a 'Hello World' program into an infinite loop. #winning?
 
 ### Skills
