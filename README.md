@@ -3,12 +3,10 @@ Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127
 
 Student
 -------
-
-* 🌍  I'm a student in RV College of Engineering, based in Bangalore, India
-* ✉️  You can contact me at [trisha.bhatta2023@gmail.com](mailto:trisha.bhatta2023@gmail.com)
-* 🧠 Currently building a Facial Recognition Attendance System to catch classmates who skip class
-* 🧠 Doing an AIML and DataScience Course on Udemy at the moment
-* ⚡  I've successfully turned a 'Hello World' program into an infinite loop. #winning?
+I'm Trisha Bhattacharya, a Computer Science student at RV College of Engineering attempting to venture into the massive chaos that is tech. I've dabbled in AI/ML, web dev, and entrepreneurship—because what's the fun in picking just one rabbit hole to go down?
+Right now, I’m a coordinator for Women in Cloud, part of the Machine Learning vertical in Astra (RVCE’s Robotics Club), and a Senior Associate in the Entrepreneurship Cell.
+Outside of tech, I run 5-10Ks for fun (yes, willingly), attempt to sing outside the shower, take obsessive notes on true crime podcasts and docuseries, and sip matcha like it’s a personality trait.
+If you're into tech, dad jokes, and making questionable life choices, we’ll get along just fine
 
 ### Skills
 
