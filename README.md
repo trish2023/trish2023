@@ -9,7 +9,7 @@ AI/ML • BCI Systems • Tech Geek • Always Learning
 ---
 🌸 Student at RV College of Engineering<br>
 🌱 Currently learning: <b>LangGraph & MLflow</b>  
-👨‍💻 Portfolio: <a href="https://trish2023.github.io/trish2023.portfolio/" target="_blank">Portfolio</a><br>
+👨‍💻 Portfolio: <a href="[https://trish2023.github.io/trish2023.portfolio/](https://trishabhattacharya.vercel.app/)" target="_blank">Portfolio</a><br>
 📝 Medium: <a href="https://medium.com/@trisha.bhatta2023" target="_blank">Articles</a><br> 
 📫 Email: trisha.bhatta2023@gmail.com  
 📄 Resume: <a href="https://drive.google.com/file/d/1_j0uk4O_dgY3x6lGlZbzyKQG8PUtx9F0/view" target="_blank">View Resume</a>
