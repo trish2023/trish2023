@@ -12,7 +12,7 @@ AI/ML • BCI Systems • Tech Geek • Always Learning • <a href="https://tri
 👨‍💻 Portfolio: <a href="https://trishabhattacharya.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a><br>
 📝 Medium: <a href="https://medium.com/@trisha.bhatta2023" target="_blank">Articles</a><br> 
 📫 Email: trisha.bhatta2023@gmail.com  
-📄 Resume: <a href="https://drive.google.com/file/d/1_j0uk4O_dgY3x6lGlZbzyKQG8PUtx9F0/view" target="_blank">View Resume</a>
+📄 Resume: <a href="https://drive.google.com/file/d/1XqoFhKryN7sUL4e5jXHL6r77nHPHpyLu/view?usp=sharing" target="_blank">View Resume</a>
 
 ---
 
